@@ -6,18 +6,18 @@ This creates a folder called venv inside your project.
 
 🔹 Activate Virtual Environment
 💻 On Windows (PowerShell)
-venv\Scripts\activate
+## venv\Scripts\activate
 
 💻 On Windows (Git Bash)
-source venv/Scripts/activate
+## source venv/Scripts/activate
 
 💻 On Mac / Linux
-source venv/bin/activate
+## source venv/bin/activate
 
 
 If activated successfully, you will see:
 
-(venv) C:\your_project>
+## (venv) C:\your_project>
 
 
 That (venv) means it is active ✅
